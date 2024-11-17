@@ -3,7 +3,7 @@
 A simple script to archive the contents of a folder and upload it to dropbox.
 
 [![License](https://img.shields.io/github/license/ItsMestro/dropbox-uploader "License")](/LICENSE) [![Discord Server](https://discordapp.com/api/guilds/128856147162562560/widget.png?style=shield "Discord Server")](https://discord.mestro.cc)  
-[![Latest Version](https://img.shields.io/github/v/release/ItsMestro/osu-skins?label=Latest%20Version "Latest Version")](https://github.com/ItsMestro/dropbox-uploader/releases/latest)
+[![Latest Version](https://img.shields.io/github/v/release/ItsMestro/dropbox-uploader?label=Latest%20Version "Latest Version")](https://github.com/ItsMestro/dropbox-uploader/releases/latest)
  ![Total Downloads](https://img.shields.io/github/downloads/ItsMestro/dropbox-uploader/DropboxUploader.exe?label=Downloads "Total Downloads")
 
 ---
@@ -28,7 +28,7 @@ python dropbox-uploader.py
 In case of errors due to missing dependencies, install them using pip:
 
 ```shell
-pip install <missing package>
+pip install missing-package
 ```
 
 ### Run with pre-built binaries
