@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pyinstaller pyinstaller_versionfile
+          pip install pyinstaller pyinstaller_versionfile requests pyyaml
 
       - name: Generate versioninfo
         run: |
